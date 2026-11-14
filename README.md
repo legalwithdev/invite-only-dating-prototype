@@ -1,5 +1,7 @@
 # Invite-only dating prototype
 
+**Live:** https://legalwithdev.github.io/invite-only-dating-prototype/ — GitHub Pages, served from `main`. Every push to `main` redeploys it.
+
 **Working name: "Cove" — not decided, not cleared.** The repo name is a neutral placeholder so nothing has to be undone when the real name lands. See [NAMING.md](NAMING.md) before you print the name anywhere.
 
 A single-file, front-end-only prototype of an invitation-gated dating app built around Apple's ecosystem conventions. No build step, no dependencies, no backend — open `index.html` and it runs.
